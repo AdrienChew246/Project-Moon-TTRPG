@@ -1,0 +1,34 @@
+# The first folder that contains all obsidian files
+# Use full path or relative path, but don't use ~/
+obsidian_folder_path_str: '/home/achew/Documents/TTRPG/Project Moon TTRPG' 
+
+# The note that will be used as the index.html 
+# should be in obsidian_folder_path_str
+# Use full path or relative path, but don't use ~/
+obsidian_entrypoint_path_str: '/home/achew/Documents/TTRPG/Project Moon TTRPG/Homepage.md'
+
+# Exclude subfolders
+# These are relative to obsidian_folder_path_str
+# To exclude a folder two levels deep, use level1/level2
+exclude_subfolders:
+  - ".obsidian"
+  - ".venv"
+  - "output"
+
+# Will be inputted into the Html template as page title
+# Not used anywhere else atm.
+site_name: 'Project Moon TTRPG'
+
+toggles:
+  # If this is false only the entrypoint and all its links (recursively) are processed
+  # if true all the notes will be processed
+  process_all: True
+  features:
+    graph:
+      enabled: False
+    folder_notes:
+      enabled: True
+      placement: 'inside folder'  
+      naming: 'index'
+    breadcrumbs:
+      enabled: True
