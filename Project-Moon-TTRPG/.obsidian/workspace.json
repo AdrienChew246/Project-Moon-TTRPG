@@ -11,10 +11,14 @@
             "id": "751be19f9f7f1b96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Characters.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Characters"
             }
           }
         ]
