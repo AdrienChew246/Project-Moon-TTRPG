@@ -1,11 +1,11 @@
 # The first folder that contains all obsidian files
 # Use full path or relative path, but don't use ~/
-obsidian_folder_path_str: '/home/achew/Documents/TTRPG/Project Moon TTRPG' 
+obsidian_folder_path_str: 'Project Moon TTRPG' 
 
 # The note that will be used as the index.html 
 # should be in obsidian_folder_path_str
 # Use full path or relative path, but don't use ~/
-obsidian_entrypoint_path_str: '/home/achew/Documents/TTRPG/Project Moon TTRPG/Homepage.md'
+obsidian_entrypoint_path_str: 'Project Moon TTRPG/Homepage.md'
 
 # Exclude subfolders
 # These are relative to obsidian_folder_path_str
