@@ -14,9 +14,6 @@ jobs:
           ref: main
           path: clone-path
 
-      - name: List files for debugging
-        run: ls -R
-
       - name: Install dependencies and run build
         run: |
           cd ${{ github.workspace }}
