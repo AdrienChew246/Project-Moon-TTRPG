@@ -1,0 +1,21 @@
+exclude_subfolders:
+- .obsidian
+- .venv
+- output
+obsidian_entrypoint_path_str: /home/achew/Documents/TTRPG/Project Moon TTRPG/Homepage.md
+obsidian_folder_path_str: /home/achew/Documents/TTRPG/Project Moon TTRPG
+site_name: Project Moon TTRPG
+toggles:
+  features:
+    breadcrumbs:
+      enabled: true
+    folder_notes:
+      enabled: true
+      naming: folder name
+      placement: inside folder
+    graph:
+      enabled: false
+    table_of_contents:
+      add_toc_when_missing: true
+      only_show_for_multiple_headers: true
+  process_all: true
