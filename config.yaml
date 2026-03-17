@@ -24,6 +24,8 @@ toggles:
   # if true all the notes will be processed
   process_all: True
   features:
+    styling: 
+      layout: documentation
     table_of_contents: 
       add_toc_when_missing: True
       only_show_for_multiple_headers: True
