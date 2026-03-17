@@ -7,6 +7,10 @@
 # Use full path or relative path, but don't use ~/
 obsidian_entrypoint_path_str: 'Project-Moon-TTRPG/Homepage.md'
 
+# Use when deploying to https://mydomain.com/html_prefix/ instead of https://mydomain.com/
+# use '/html_prefix' (prepend slash, no slash at the end)
+html_url_prefix: '/Project-Moon-TTRPG'
+
 # Exclude subfolders
 # These are relative to obsidian_folder_path_str
 # To exclude a folder two levels deep, use level1/level2
