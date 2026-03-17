@@ -1,9 +1,8 @@
-exclude_subfolders:
+exclude_glob:
 - .obsidian
 - .venv
 - output
-obsidian_entrypoint_path_str: Project Moon TTRPG/Homepage.md
-obsidian_folder_path_str: Project Moon TTRPG
+obsidian_entrypoint_path_str: Project Moon TTRPG/index.md
 site_name: Project Moon TTRPG
 toggles:
   features:

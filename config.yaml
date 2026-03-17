@@ -10,7 +10,7 @@ obsidian_entrypoint_path_str: 'Project Moon TTRPG/Homepage.md'
 # Exclude subfolders
 # These are relative to obsidian_folder_path_str
 # To exclude a folder two levels deep, use level1/level2
-exclude_subfolders:
+exclude_glob:
   - ".obsidian"
   - ".venv"
   - "output"

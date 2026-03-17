@@ -1,4 +1,3 @@
-_css_file: main_documentation.css
 audio_format_suffixes:
 - mp3
 - webm
@@ -14,14 +13,10 @@ copy_vault_to_tempdir_method: default
 embeddable_file_suffixes:
 - pdf
 exclude_glob:
-- /.obsidian
-- /.trash
-- /.DS_Store
-- /.git
-exclude_subfolders:
 - .obsidian
 - .venv
 - output
+exclude_subfolders: <DEPRECATED>
 file_exports: []
 html_custom_footer_inclusions: []
 html_custom_inclusions: []
@@ -101,8 +96,8 @@ module_list:
     - Optionally removes previous output if it exists in the target directories
     name: prepare_output_folders
 navbar_links: []
-obsidian_entrypoint_path_str: Project Moon TTRPG/Homepage.md
-obsidian_folder_path_str: Project Moon TTRPG
+obsidian_entrypoint_path_str: Project Moon TTRPG/index.md
+obsidian_folder_path_str: <DEPRECATED>
 resolve_output_file_links: true
 site_name: Project Moon TTRPG
 toggles:
@@ -301,14 +296,14 @@ toggles:
   force_filename_to_lowercase: true
   img_alt_text_use_figure: true
   no_clean: false
-  no_tabs: true
+  no_tabs: <REMOVED>
   preserve_inline_tags: true
   process_all: true
   relative_path_html: false
   relative_path_md: true
   slugify_html_links: false
   stdout_current_file: false
-  strict_line_breaks: false
+  strict_line_breaks: auto
   verbose_printout: false
   warn_on_skipped_file: true
   warn_on_skipped_image: true
