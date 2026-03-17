@@ -11,14 +11,10 @@
             "id": "751be19f9f7f1b96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homepage.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "New tab"
             }
           }
         ]
@@ -186,8 +182,8 @@
   },
   "active": "751be19f9f7f1b96",
   "lastOpenFiles": [
-    "Characters/Characters.md",
     "Homepage.md",
+    "Characters/Characters.md",
     "Characters",
     "Characters/folder note.md",
     "Character Creation.md",
