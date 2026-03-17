@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Characters.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Characters"
+              "title": "Homepage"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Characters.md",
+                "file": "Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Characters"
+              "title": "Outline of Homepage"
             }
           }
         ],
@@ -186,10 +186,10 @@
   },
   "active": "751be19f9f7f1b96",
   "lastOpenFiles": [
-    "Homepage.md",
     "Characters/Characters.md",
-    "Characters/folder note.md",
+    "Homepage.md",
     "Characters",
+    "Characters/folder note.md",
     "Character Creation.md",
     "TEST.md",
     "output/html",
@@ -226,7 +226,6 @@
     "output/md/output/md/output/md/output/md/output/md/obsidian/lib/python3.14/site-packages/obsidianhtml/src/html/templates/not_created.md",
     "output/md/output/md/output/md/output/md/output/md/obsidian/lib/python3.14/site-packages/pip/_vendor/idna/LICENSE.md",
     "output/md/output/md/output/md/output/md/output/md/obsidian/lib/python3.14/site-packages/soupsieve-2.8.3.dist-info/licenses/LICENSE.md",
-    "output/md/output/md/output/md/output/md/output/md/obsidian/lib/python3.14/site-packages/pymdown_extensions-10.21.dist-info/licenses/LICENSE.md",
     "output/html/obs.html/static/graph.svg",
     "obsidian/lib/python3.14/site-packages/obsidianhtml/src/svgs/hashtag.svg",
     "obsidian/lib/python3.14/site-packages/obsidianhtml/src/svgs/external.svg",
