@@ -2,7 +2,7 @@ exclude_glob:
 - .obsidian
 - .venv
 - output
-obsidian_entrypoint_path_str: Project Moon TTRPG/index.md
+obsidian_entrypoint_path_str: Project Moon TTRPG/Homepage.md
 site_name: Project Moon TTRPG
 toggles:
   features:
