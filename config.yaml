@@ -24,11 +24,14 @@ toggles:
   # if true all the notes will be processed
   process_all: True
   features:
+    table_of_contents: 
+      add_toc_when_missing: True
+      only_show_for_multiple_headers: True
     graph:
       enabled: False
     folder_notes:
       enabled: True
       placement: 'inside folder'  
-      naming: 'index'
+      naming: 'folder name'
     breadcrumbs:
       enabled: True

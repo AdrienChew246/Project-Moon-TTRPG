@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation.md",
+                "file": "Characters/Characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Character Creation"
+              "title": "Characters"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ece5283b4e72e665",
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation.md",
+                "file": "Characters/Characters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Character Creation"
+              "title": "Outline of Characters"
             }
           }
         ],
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,9 +186,12 @@
   },
   "active": "751be19f9f7f1b96",
   "lastOpenFiles": [
-    "TEST.md",
     "Homepage.md",
+    "Characters/Characters.md",
+    "Characters/folder note.md",
+    "Characters",
     "Character Creation.md",
+    "TEST.md",
     "output/html",
     "output/md",
     "output/mod/guid.txt",
@@ -197,7 +201,6 @@
     "output/html/favicon.ico",
     "output/html/obs.html/static/Roboto-Regular.ttf",
     "output/html/obs.html/static/SourceCodePro-Regular.ttf",
-    "output/html/obs.html/static/master.css",
     "output/html/obs.html/static/search.svg",
     "output/html/obs.html/static/rss.svg",
     "output/html/obs.html/static/hashtag.svg",
@@ -224,8 +227,6 @@
     "output/md/output/md/output/md/output/md/output/md/obsidian/lib/python3.14/site-packages/pip/_vendor/idna/LICENSE.md",
     "output/md/output/md/output/md/output/md/output/md/obsidian/lib/python3.14/site-packages/soupsieve-2.8.3.dist-info/licenses/LICENSE.md",
     "output/md/output/md/output/md/output/md/output/md/obsidian/lib/python3.14/site-packages/pymdown_extensions-10.21.dist-info/licenses/LICENSE.md",
-    "output/md/output/md/output/md/output/md/output/md/obsidian/lib/python3.14/site-packages/obsidianhtml/gui/readme.md",
-    "output/md/output/md/output/md/output/md/output/md/obsidian/lib/python3.14/site-packages/obsidianhtml/core/readme.md",
     "output/html/obs.html/static/graph.svg",
     "obsidian/lib/python3.14/site-packages/obsidianhtml/src/svgs/hashtag.svg",
     "obsidian/lib/python3.14/site-packages/obsidianhtml/src/svgs/external.svg",
