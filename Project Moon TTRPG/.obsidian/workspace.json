@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Characters.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Characters"
+              "title": "Homepage"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Characters.md",
+                "file": "Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Characters"
+              "title": "Outline of Homepage"
             }
           }
         ],
@@ -186,8 +186,8 @@
   },
   "active": "751be19f9f7f1b96",
   "lastOpenFiles": [
-    "Homepage.md",
     "Characters/Characters.md",
+    "Homepage.md",
     "Characters/folder note.md",
     "Characters",
     "Character Creation.md",
