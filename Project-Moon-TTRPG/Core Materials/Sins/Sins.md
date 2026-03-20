@@ -26,4 +26,4 @@ Cards related to this sin are centered around bolstering one's own defense.
 ## ![[envy.png]]Envy
 *"Anyone who's been subject to both static shock and the envy of others must know that the latter stings in the same manner as the former does."*
 
-Cards related to this sin are centered around providing buffs to allies.
+Cards related to this sin are centered around providing buffs to allies. 
