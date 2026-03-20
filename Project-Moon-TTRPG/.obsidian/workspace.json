@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Sins"
             }
+          },
+          {
+            "id": "bbf898b1af2c1d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Materials/Sins/Sins.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sins"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,10 +210,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "bb577f37e1118fb6",
+  "active": "bbf898b1af2c1d6f",
   "lastOpenFiles": [
-    "Core Materials/Sins",
+    "Core Materials/Status Effects.md",
     "Core Materials/Sins/Sins.md",
+    "Core Mechanics/Core Mechanics.md",
+    "Images/Status Effects/bleed.png",
+    "Images/Status Effects/charge.png",
+    "Images/Status Effects/poise.png",
+    "Images/Status Effects/sinking.png",
+    "Images/Status Effects/rupture.png",
+    "Images/Status Effects/tremor.png",
+    "Images/Status Effects/burn.png",
+    "Images/Sins/envy.png",
+    "Images/Status Effects",
+    "Images/Sins",
+    "Status Effects",
+    "Core Materials/Sins",
     "home/achew/Documents/TTRPG/Project-Moon-TTRPG/Images/Pasted image 20260320005853.png",
     "home/achew/Documents/TTRPG/Project-Moon-TTRPG/Images",
     "home/achew/Documents/TTRPG/Project-Moon-TTRPG",
@@ -206,22 +234,9 @@
     "home/achew/Documents",
     "home/achew",
     "home",
-    "Images/lust.png",
-    "Images/envy.png",
-    "Images/pride.png",
-    "Images/gloom.png",
-    "Images/gluttony.png",
-    "Pasted image 20260320005337.png",
-    "Images/sloth.png",
-    "Core Mechanics/Core Mechanics.md",
-    "Images/wrath.png",
-    "Pasted image 20260320005251.png",
-    "Images",
-    "Core Materials",
+    "Images/Sins/lust.png",
     "Characters/Characters.md",
-    "Core Mechanics",
     "Homepage.md",
-    "Characters",
     "Characters/folder note.md",
     "Character Creation.md",
     "TEST.md",
@@ -241,7 +256,6 @@
     "output/md/Character Creation.md",
     "output/md/index.md",
     "output/md/output/md/output/md/output/md/output/md/obsidian/lib/python3.14/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
-    "output/md/output/md/output/md/output/md/output/md/obsidian/lib/python3.14/site-packages/obsidianhtml/src/installer/dist/readme.md",
-    "output/md/output/md/output/md/output/md/output/md/obsidian/lib/python3.14/site-packages/obsidianhtml/src/html/templates/not_created.md"
+    "output/md/output/md/output/md/output/md/output/md/obsidian/lib/python3.14/site-packages/obsidianhtml/src/installer/dist/readme.md"
   ]
 }
