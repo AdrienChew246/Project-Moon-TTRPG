@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Sins"
             }
-          },
-          {
-            "id": "bbf898b1af2c1d6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Materials/Sins/Sins.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sins"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,10 +195,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "bbf898b1af2c1d6f",
+  "active": "2e19e9470c1d6772",
   "lastOpenFiles": [
-    "Core Materials/Status Effects.md",
+    "Core Materials/Sins/Gloom.md",
+    "Core Materials/Sins/Lust.md",
+    "Core Materials/Sins/Envy.md",
+    "Core Materials/Sins/Pride.md",
+    "Core Materials/Sins/Gluttony.md",
+    "Core Materials/Sins/Sloth.md",
+    "Core Materials/Sins/Wrath.md",
     "Core Materials/Sins/Sins.md",
+    "Core Materials/Status Effects.md",
     "Core Mechanics/Core Mechanics.md",
     "Images/Status Effects/bleed.png",
     "Images/Status Effects/charge.png",
@@ -250,12 +242,6 @@
     "output/md/obsidian/lib/python3.14/site-packages/obsidianhtml/gui/readme.md",
     "output/md/obsidian/lib/python3.14/site-packages/obsidianhtml/core/readme.md",
     "output/md/obsidian/lib/python3.14/site-packages/markdown-3.10.2.dist-info/licenses/LICENSE.md",
-    "output/md/obsidian/lib/python3.14/site-packages/idna-3.11.dist-info/licenses/LICENSE.md",
-    "output/md/obsidian/lib/python3.14/site-packages/obsidianhtml/README.md",
-    "output/md/TEST.md",
-    "output/md/Character Creation.md",
-    "output/md/index.md",
-    "output/md/output/md/output/md/output/md/output/md/obsidian/lib/python3.14/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
-    "output/md/output/md/output/md/output/md/output/md/obsidian/lib/python3.14/site-packages/obsidianhtml/src/installer/dist/readme.md"
+    "output/md/obsidian/lib/python3.14/site-packages/idna-3.11.dist-info/licenses/LICENSE.md"
   ]
 }
