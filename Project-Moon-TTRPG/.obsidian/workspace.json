@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Materials/Sins/Sins.md",
+                "file": "Core Materials/Core Materials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sins"
+              "title": "Core Materials"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Materials/Sins/Sins.md",
+                "file": "Core Materials/Core Materials.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sins"
+              "title": "Outline of Core Materials"
             }
           },
           {
@@ -197,6 +197,9 @@
   },
   "active": "2e19e9470c1d6772",
   "lastOpenFiles": [
+    "Core Materials/Status Effects.md",
+    "Core Materials/Core Materials.md",
+    "Core Materials/Sins/Sins.md",
     "Core Materials/Sins/Gloom.md",
     "Core Materials/Sins/Lust.md",
     "Core Materials/Sins/Envy.md",
@@ -204,8 +207,6 @@
     "Core Materials/Sins/Gluttony.md",
     "Core Materials/Sins/Sloth.md",
     "Core Materials/Sins/Wrath.md",
-    "Core Materials/Sins/Sins.md",
-    "Core Materials/Status Effects.md",
     "Core Mechanics/Core Mechanics.md",
     "Images/Status Effects/bleed.png",
     "Images/Status Effects/charge.png",
@@ -241,7 +242,6 @@
     "output/md/obsidian/lib/python3.14/site-packages/obsidianhtml/src/html/templates/not_created.md",
     "output/md/obsidian/lib/python3.14/site-packages/obsidianhtml/gui/readme.md",
     "output/md/obsidian/lib/python3.14/site-packages/obsidianhtml/core/readme.md",
-    "output/md/obsidian/lib/python3.14/site-packages/markdown-3.10.2.dist-info/licenses/LICENSE.md",
-    "output/md/obsidian/lib/python3.14/site-packages/idna-3.11.dist-info/licenses/LICENSE.md"
+    "output/md/obsidian/lib/python3.14/site-packages/markdown-3.10.2.dist-info/licenses/LICENSE.md"
   ]
 }

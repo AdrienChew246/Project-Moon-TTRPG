@@ -26,6 +26,10 @@ exclude_glob:
 # Not used anywhere else atm.
 site_name: 'Project Moon TTRPG'
 
+navbar_links:
+  - name: Core Materials
+    link: Core Materials/Core Materials.html
+
 toggles:
   # If this is false only the entrypoint and all its links (recursively) are processed
   # if true all the notes will be processed
