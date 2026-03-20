@@ -1,10 +1,11 @@
 There are 7 different sins in which characters draw power from. Each sin has its own deck of cards that grant abilities or modifications to player characters. The 7 sins and what they represent are as follows.
-# ![[wrath.png]]Wrath
-*"The nature of fire is to burn and burn until there is nothing left to be burned".*
+# ![[wrath.png|25]]Wrath
+*"The nature of fire is to burn and burn until there is nothing left to be burned."*
 
 
-# ![[lust.png]]Lust
-*"An obsession to spread a fragment of what forms the self. A desire to propagate, to breed".*
+## ![[lust.png]]Lust
+*"An obsession to spread a fragment of what forms the self. A desire to propagate, to breed."*
+
 The sin of lust is **the desire to give parts of oneself to others** as well as **yearning for connection and fulfillment**. This can be interpreted in both the literal sense (as in one's physical body), or as more of a metaphorical meaning (in the form of knowledge and beliefs). Cards related to this sin are centered around providing physical or mental well being to others, even if it means sacrificing some of your own.
 # ![[sloth.png]]Sloth
 *"Stones are sturdy, but that's all there is to them. They are directionless and unmoving- completely surrendered to inertia. They are trapped in their current lot in existence until someone else comes along to roll them away."*
