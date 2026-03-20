@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3e4ab6268580c73c",
+        "id": "4404d0e3b241c05b",
         "type": "tabs",
         "children": [
           {
-            "id": "751be19f9f7f1b96",
+            "id": "fc0de03f92a0f508",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Characters.md",
+                "file": "Core Materials/Sins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Characters"
+              "title": "Sins"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Characters.md",
+                "file": "Core Materials/Sins.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Characters"
+              "title": "Outline of Sins"
             }
           },
           {
@@ -194,10 +194,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f6d3fee962f45de",
+  "active": "fc0de03f92a0f508",
   "lastOpenFiles": [
-    "Homepage.md",
+    "Pasted image 20260320004551.png",
+    "Pasted image 20260320004536.png",
+    "Core Mechanics/Core Mechanics.md",
+    "Core Materials/Sins.md",
+    "Core Materials",
     "Characters/Characters.md",
+    "Core Mechanics",
+    "Homepage.md",
     "Characters",
     "Characters/folder note.md",
     "Character Creation.md",
@@ -209,8 +215,6 @@
     "output",
     "output/mod/config.yml",
     "output/html/favicon.ico",
-    "output/html/obs.html/static/Roboto-Regular.ttf",
-    "output/html/obs.html/static/SourceCodePro-Regular.ttf",
     "output/html/obs.html/static/search.svg",
     "output/html/obs.html/static/rss.svg",
     "output/html/obs.html/static/hashtag.svg",
@@ -234,12 +238,9 @@
     "output/md/output/md/output/md/output/md/output/md/obsidian/lib/python3.14/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
     "output/md/output/md/output/md/output/md/output/md/obsidian/lib/python3.14/site-packages/obsidianhtml/src/installer/dist/readme.md",
     "output/md/output/md/output/md/output/md/output/md/obsidian/lib/python3.14/site-packages/obsidianhtml/src/html/templates/not_created.md",
-    "output/md/output/md/output/md/output/md/output/md/obsidian/lib/python3.14/site-packages/pip/_vendor/idna/LICENSE.md",
-    "output/md/output/md/output/md/output/md/output/md/obsidian/lib/python3.14/site-packages/soupsieve-2.8.3.dist-info/licenses/LICENSE.md",
     "output/html/obs.html/static/graph.svg",
     "obsidian/lib/python3.14/site-packages/obsidianhtml/src/svgs/hashtag.svg",
     "obsidian/lib/python3.14/site-packages/obsidianhtml/src/svgs/external.svg",
-    "obsidian/lib/python3.14/site-packages/obsidianhtml/src/search/search.svg",
-    "obsidian/lib/python3.14/site-packages/obsidianhtml/src/rss/rss.svg"
+    "obsidian/lib/python3.14/site-packages/obsidianhtml/src/search/search.svg"
   ]
 }
