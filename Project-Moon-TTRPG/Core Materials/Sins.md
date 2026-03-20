@@ -1,2 +1,7 @@
 There are 7 different sins in which characters draw power from. Each sin has its own deck of cards that grant abilities or modifications to player characters. The 7 sins and what they represent are as follows.
 # ![[wrath.png]]Wrath
+a
+# ![[lust.png]]Lust
+a
+# ![[sloth.png]]Sloth
+

@@ -20,6 +20,7 @@ exclude_glob:
   - ".obsidian"
   - ".venv"
   - "output"
+  - "Images"
 
 # Will be inputted into the Html template as page title
 # Not used anywhere else atm.
