@@ -11,6 +11,8 @@ obsidian_entrypoint_path_str: 'Project-Moon-TTRPG/Homepage.md'
 # use '/html_prefix' (prepend slash, no slash at the end)
 html_url_prefix: '/Project-Moon-TTRPG'
 
+included_file_suffixes: ['jpg', 'jpeg', 'gif', 'png', 'bmp', 'pdf', 'mp4', 'webm', 'mp3', 'wav']
+
 # Exclude subfolders
 # These are relative to obsidian_folder_path_str
 # To exclude a folder two levels deep, use level1/level2
