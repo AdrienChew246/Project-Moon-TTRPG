@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Materials/Core Materials.md",
+                "file": "Core Materials/Sins/Sins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core Materials"
+              "title": "Sins"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Materials/Core Materials.md",
+                "file": "Core Materials/Sins/Sins.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Core Materials"
+              "title": "Outline of Sins"
             }
           },
           {
@@ -197,8 +197,14 @@
   },
   "active": "2e19e9470c1d6772",
   "lastOpenFiles": [
-    "Core Materials/Status Effects.md",
+    "Images/Status Effects/paralyze.png",
+    "Images/Status Effects/feeble.png",
+    "Images/Status Effects/strength.png",
+    "Images/Status Effects/protection.png",
+    "Images/Status Effects/fragile.png",
+    "Images/Status Effects/panic.png",
     "Core Materials/Core Materials.md",
+    "Core Materials/Status Effects.md",
     "Core Materials/Sins/Sins.md",
     "Core Materials/Sins/Gloom.md",
     "Core Materials/Sins/Lust.md",
@@ -213,21 +219,16 @@
     "Images/Status Effects/poise.png",
     "Images/Status Effects/sinking.png",
     "Images/Status Effects/rupture.png",
-    "Images/Status Effects/tremor.png",
-    "Images/Status Effects/burn.png",
-    "Images/Sins/envy.png",
     "Images/Status Effects",
     "Images/Sins",
     "Status Effects",
     "Core Materials/Sins",
-    "home/achew/Documents/TTRPG/Project-Moon-TTRPG/Images/Pasted image 20260320005853.png",
     "home/achew/Documents/TTRPG/Project-Moon-TTRPG/Images",
     "home/achew/Documents/TTRPG/Project-Moon-TTRPG",
     "home/achew/Documents/TTRPG",
     "home/achew/Documents",
     "home/achew",
     "home",
-    "Images/Sins/lust.png",
     "Characters/Characters.md",
     "Homepage.md",
     "Characters/folder note.md",
@@ -241,7 +242,6 @@
     "output/md/obsidian/lib/python3.14/site-packages/obsidianhtml/src/installer/dist/readme.md",
     "output/md/obsidian/lib/python3.14/site-packages/obsidianhtml/src/html/templates/not_created.md",
     "output/md/obsidian/lib/python3.14/site-packages/obsidianhtml/gui/readme.md",
-    "output/md/obsidian/lib/python3.14/site-packages/obsidianhtml/core/readme.md",
-    "output/md/obsidian/lib/python3.14/site-packages/markdown-3.10.2.dist-info/licenses/LICENSE.md"
+    "output/md/obsidian/lib/python3.14/site-packages/obsidianhtml/core/readme.md"
   ]
 }
